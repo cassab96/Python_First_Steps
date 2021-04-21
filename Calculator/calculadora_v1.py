@@ -1,4 +1,8 @@
-# Calculadora em Python - versao 1
+# Calculadora em Python
+
+# Desenvolva uma calculadora em Python com tudo que você aprendeu nos capítulos 2 e 3. 
+# A solução será apresentada no próximo capítulo!
+# Assista o vídeo com a execução do programa!
 
 import math
 
@@ -28,3 +32,6 @@ elif operacao == 4:
 	print("%d / %d = %d" %(num1, num2, div))
 else:
 	print("Valor de entrada para operação incorreto. Por favor, tente novamente de 1 a 4.")
+
+
+

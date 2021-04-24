@@ -9,16 +9,19 @@ import math
 
 print("\n******************* Python Calculator *******************")
 
-#Escolha da operação
+# Description
 print("Selecione o número da operação desejada: \n1 - Soma \n2 - Subtração \n3 - Multiplicação \n4 - Divisão")
 
+# Choose a math operation
 operacao = int(input("Digite sua opção (1|2|3|4): "))
 
+# Input first number
 num1 = int(input("Digite o primeiro número: "))
 
+# Input second number
 num2 = int(input("Digite o segundo número: "))
 
-
+# Program:
 if operacao == 1:
 	soma = num1 + num2
 	print("%d + %d = %d" %(num1, num2, soma))

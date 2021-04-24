@@ -1,4 +1,8 @@
-# Calculadora em Python
+# Calculador in Python - version 2
+# Code created by cassab96
+
+# Development of the four basics operations using Python language 
+# Application of fundamental knowlegde - first challenge
 
 print("\n******************* Python Calculator *******************")
 

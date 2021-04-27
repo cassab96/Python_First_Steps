@@ -1,5 +1,5 @@
 # Calculador in Python - version 2
-# Code created by cassab96
+# Code created by sabrinaamorimdecastro
 
 # Development of the four basics operations using Python language 
 # Application of fundamental knowlegde - first challenge

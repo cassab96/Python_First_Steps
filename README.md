@@ -1,6 +1,6 @@
 # Python_First_Steps
 First steps Python language
 
-Curso: Python Fundamentos para Análise de Dados Data Science Academy
+Course: Python Fundamentals for Data Analysis Academy (Data Analysis Academy)
 
 https://www.datascienceacademy.com.br/course?courseid=python-fundamentos

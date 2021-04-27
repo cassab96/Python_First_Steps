@@ -4,6 +4,8 @@
 # Development of the four basics operations using Python language 
 # Application of fundamental knowlegde - first challenge
 
+#import package time
+import time
 
 import math
 
@@ -37,5 +39,6 @@ elif operacao == 4:
 else:
 	print("Valor de entrada para operação incorreto. Por favor, tente novamente de 1 a 4.")
 
-
-
+# time used to Python app close after 5 seconds that the result printed
+t = 5
+time.sleep(t)

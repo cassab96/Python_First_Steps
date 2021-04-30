@@ -1,6 +1,6 @@
 # Hangman Game
 # Python Language: Object Oriented Programming - OOP
-# Created by sabrinaamorimdecastro
+# By sabrinaamorimdecastro
 
 # Import package for random selection of the word in date.txt
 import random

@@ -1,6 +1,5 @@
-sorvete
-caderno
-calculadora
-computador
-brasil
-bigdata
+music
+mobile
+tiger
+computer
+brazil

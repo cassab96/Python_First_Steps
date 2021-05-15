@@ -1,5 +1,4 @@
 # Snake Game
-# Code created by sabrinaamorimdecastro
 
 #Library
 import pygame

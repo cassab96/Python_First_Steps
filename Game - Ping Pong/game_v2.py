@@ -1,5 +1,5 @@
-# Game Ping-Pong
-# By sabrinaamorimdecastro
+# Ping-Pong Game
+# By cassabr
 
 # Imports
 from tkinter import *

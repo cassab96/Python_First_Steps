@@ -1,5 +1,5 @@
-# Calculadora em Python
-# By sabrinaamorimdecastro
+# Python Calculador 
+# By cassabr
 
 # Math library
 import math

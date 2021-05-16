@@ -1,8 +1,9 @@
 # Calculador in Python
-# BY cassabr
+# By cassabr
 
-# Development of the four basics operations using Python language 
-# Application of fundamental knowlegde - first challenge
+# Development of the four basics operations using Python language. 
+# Application of fundamental knowlegde - first challenge.
+
 
 #import package
 import time

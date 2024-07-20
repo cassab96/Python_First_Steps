@@ -28,23 +28,23 @@ def main():
 	# Program:
 	if operation == "+":
 		su = num1 + num2
-		print("             ______ \n\nResultado=     %d" %su)
+		print("             ______ \n\nResult=     %d" %su)
 
 	elif operation == "-":
 		sub = num1 - num2
-		print("             ______ \n\nResultado=     %d" %sub)
+		print("             ______ \n\nResult=     %d" %sub)
 
 	elif operation == "*":
 		mult = num1 * num2
-		print("             ______ \n\nResultado=     %d" %mult)
+		print("             ______ \n\nResulto=     %d" %mult)
 
 	elif operation == "x":
 		mult2 = num1 * num2
-		print("             ______ \n\nResultado=     %d" %mult2)
+		print("             ______ \n\nResult=     %d" %mult2)
 
 	elif operation == "/":
 		div = num1 / num2
-		print("             ______ \n\nResultado=     %d" %div)
+		print("             ______ \n\nResult=     %d" %div)
 		
 	else:
 		print("Input value for operation is incorrect. Please try again.")
